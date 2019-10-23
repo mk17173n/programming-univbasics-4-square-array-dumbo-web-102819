@@ -1,4 +1,4 @@
-def square_array(element)
+def square_array(array)
   index =0
   squared_array =[]
   while index < array.size do
